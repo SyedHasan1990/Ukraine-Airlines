@@ -1,0 +1,69 @@
+﻿.booking
+{
+    margin-left:350px;
+    margin-top:-200px;
+}
+
+.from {
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+.fromcountry {
+    margin-left: 160px;
+    margin-top: -25px;
+}
+
+.to {
+    margin-top: -30px;
+    margin-left: 380px;
+}
+
+.tocountry {
+    margin-left: 430px;
+    margin-top: -25px;
+}
+
+.trip {
+    margin-top: -30px;
+    margin-left: 650px;
+}
+
+.triprec {
+    margin-left: 720px;
+    margin-top: -25px;
+}
+
+.number {
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+.tickets {
+    margin-left: 160px;
+    margin-top: -25px;
+}
+
+.departuredate {
+    margin-left: 470px;
+    margin-top: -25px;
+}
+
+.departure {
+    margin-left: 610px;
+    margin-top: -25px;
+}
+
+.arrivaldate {
+    margin-left: 806px;
+    margin-top: -25px;
+}
+
+.arrivale {
+    margin-left: 910px;
+    margin-top: -25px;
+}
+
+.searchflight {
+    margin-left: 470px;
+}

@@ -1,0 +1,20 @@
+﻿.logout {
+    margin-left: 550px;
+}
+
+
+.login {
+    margin-left: 300px;
+}
+
+
+.loggedout {
+    margin-top: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.logout {
+    margin-left: 350px;
+    margin-top: 200px;
+}

@@ -1,0 +1,101 @@
+﻿.payment {
+    margin-left: 500px;
+}
+.origin {
+    margin-left: 20px;
+}
+
+.originnname {
+    margin-left: 110px;
+    margin-top: -42px;
+}
+
+.destination {
+    margin-left: 200px;
+    margin-top: -37px;
+}
+
+.destinationname {
+    margin-left: 350px;
+    margin-top: -42px;
+}
+
+.trip {
+    margin-left: 450px;
+    margin-top: -37px;
+}
+.triptype {
+    margin-top: -40px;
+    margin-left: 510px;
+}
+
+
+.departure {
+    margin-left: 600px;
+    margin-top: -37px;
+}
+
+.departuredate {
+    margin-left: 740px;
+    margin-top: -40px;
+}
+
+.arrival {
+    margin-left: 840px;
+    margin-top: -37px;
+}
+
+.arrivaledate {
+    margin-left: 938px;
+    margin-top: -40px;
+}
+
+
+.paymentselect {
+    margin-left: 20px;
+}
+
+.card {
+    margin-left: 175px;
+    margin-top: -28px;
+}
+
+.cardnumber {
+    margin-left: 360px;
+    margin-top: -42px;
+}
+
+.numbercard {
+    margin-left: 525px;
+    margin-top: -28px;
+}
+
+.cardcvv {
+    margin-left: 720px;
+    margin-top: -42px;
+}
+
+.cvvcode {
+    margin-top: -28px;
+    margin-left: 780px;
+}
+
+.expire {
+    margin-left: 20px;
+}
+
+.pay {
+    margin-top: -35px;
+    margin-left: 490px;
+}
+
+
+.expiremonth {
+    margin-left: 120px;
+    margin-top: -28px;
+}
+
+.expireyear {
+    margin-left: 295px;
+    margin-top: -30px;
+}

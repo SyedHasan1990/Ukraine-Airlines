@@ -1,0 +1,32 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="PURCHASEDPAGE.aspx.cs" Inherits="PASSENGER_PURCHASEDPAGE" %>
+
+<%@ Register Assembly="DevExpress.Web.v17.1, Version=17.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web" TagPrefix="dx" %>
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="../CSS/LAYOUT.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+        </div> <div class="bodyb">
+               <div class="headerlogo">
+             <dx:ASPxImage ID="ASPxImage1" Width="900px" ImageUrl="~/IMAGE/UIA_Logos_line.gif" runat="server" ShowLoadingImage="true"></dx:ASPxImage>
+        
+               </div>
+       
+        <div class="divider">
+            <hr/>
+        </div>
+            <div class="paymentconfirmation">
+                &nbsp;&nbsp;
+                <dx:ASPxLabel ID="ASPxLabel1" runat="server" Text="YOUR PAYMENT HAS BEEN SUCCESSFULL ! YOU CAN CHECK YOUR BOOKING RECORDS !" Font-Bold="True" Font-Names="Century" Font-Size="XX-Large" ForeColor="#0066CC" Theme="RedWine" Font-Overline="True" Font-Underline="True"></dx:ASPxLabel>
+            </div>
+            </div>
+    </form>
+</body>
+</html>

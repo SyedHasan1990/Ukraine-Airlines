@@ -1,0 +1,52 @@
+﻿.headerlogo {
+    margin-top: -5px;
+  margin-left:0px;
+}
+
+.session {
+    margin-left: 350px;
+    margin-top: -15px;
+}
+
+.sessionname {
+    margin-left: 680px;
+    margin-top: -30px;
+}
+
+
+.navigation {
+    margin-top: -30px;
+}
+
+
+.socialmedia {
+    margin-top: -39px;
+    margin-left: 455px;
+}
+
+.twitter {
+    margin-top: -43px;
+    margin-left: 534px;
+}
+
+body {
+    image-resolution: from-image;
+    background-image: url('../IMAGE/cloudy.jpg');
+    image-orientation: inherit;
+    image-rendering: optimizeQuality;
+    background-size: cover;
+    background-repeat: unset;
+}
+
+
+.divider {
+    margin-top: -12px;
+}
+
+.divider2 {
+    margin-top: 11.5px;
+}
+
+.footer{
+    margin-top:20px;
+}
